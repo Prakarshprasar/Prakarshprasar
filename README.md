@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there I'm Prakarsh Prasar👋
 
 <!--
-**Prakarshprasar/Prakarshprasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+
 
 Here are some ideas to get you started:
 
