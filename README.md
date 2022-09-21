@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **prakprasar@gmail.com**
 
-- 📄 Here is my resume : **[RESUME](https://drive.google.com/drive/my-drive)**
+- 📄 Here is my resume : **[RESUME](https://drive.google.com/file/d/1T3Cxe0ZzofdLg-fC0kfEiRUOTAEwXTva/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
