@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/prakprasar" target="blank"><img src="https://img.shields.io/twitter/follow/prakprasar?logo=twitter&style=for-the-badge" alt="prakprasar" /></a> </p>
 
-- 👨‍💻 My recent projects are available at : **[PORTFOLIO]**(https://prakarshprasarportfolio.netlify.app/)
+- 👨‍💻 My recent projects are available at : **[PORTFOLIO](https://prakarshprasarportfolio.netlify.app/)**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB & Data Structures.**
 
 - 📫 Reach me at **prakprasar@gmail.com**
 
-- 📄 Here is my resume : **[RESUME]**(https://drive.google.com/drive/my-drive)
+- 📄 Here is my resume : **[RESUME](https://drive.google.com/drive/my-drive)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
